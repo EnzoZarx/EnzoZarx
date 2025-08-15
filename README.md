@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
 <h3 align="center">A passionate of technology..</h3>
 
-- 🌱 I’m currently learning **Typescript and Python**
-
 - 📫 How to reach me **enzoprudent@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
